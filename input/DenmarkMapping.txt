@@ -1,0 +1,24 @@
+21	LVCS	Live Chat Started	NULL	1	NULL	post_event_list	event133
+21	LVCC	Live Chat Complete	NULL	1	NULL	post_event_list	event134
+21	DSS	Dealer search start	NULL	1	NULL	post_event_list	event128
+21	DSC	Dealer search complete	NULL	1	NULL	post_event_list	event129
+21	NDES	NBA Dealer Enquiry Start	NULL	1	1	post_event_list	event76
+21	NDEC	NBA Dealer Enquiry Complete	1	NULL	NULL	post_event_list	event77
+21	MFS	Model Finder STARTED	NULL	1	NULL	post_event_list	event85
+21	MFVV	Model Finder Vehicle Viewed	NULL	1	NULL	post_event_list	event92
+21	PFS	Finance Product Finder Service	NULL	1	NULL	post_prop28	contains 'https://pf.daimler-financialservices.com/pf/'
+21	BSS	Book A Service Start	NULL	1	NULL	post_eVar26	ejerskab:servicebesøg
+21	BCUC	Buy Certified Used Cars	NULL	1	NULL	post_eVar26	klar_til_køb:mercedes-benz_certified 
+21	EQCRS	EQC Registration Complete	1	NULL	NULL	post_event_list	event228
+21	GRFS	General Request Form Start	NULL	1	1	post_event_list	event137
+21	GRFC	General Request Form Complete	1	NULL	NULL	post_event_list	event138
+21	ACCS	Accessories	NULL	1	NULL	post_prop28	contains ' https://configurator.mercedes-benz-accessories.com'
+21	CUS	Contact Us Start	NULL	1	NULL	post_eVar26	kontakt or se_kontaktoplysninger
+21	MOFS	Model Filter Selected	NULL	1	NULL	post_event_list	event94
+21	MMPS	Mercedes Me Portal Start	NULL	1	NULL	post_prop28	contains '/me.secure.mercedes-benz.com/wps/portal/mmp/'
+21	MBAD	Mercedes Benz App Download	NULL	1	NULL	post_prop28	contains 'play.google' or contains 'itunes'
+21	SMS	Service & Maintainence	NULL	1	NULL	post_eVar26	ejerskab:service_og_vedligeholdelse
+21	PLD	PriceList Download	NULL	1	NULL	post_eVar26	contains "prisliste_"
+21	BDS	Brochure Download Start	NULL	1	NULL	post_eVar26	brochurer
+21	NES	News & Events Start	NULL	1	NULL	post_prop1	passengercars:the-brand:news-and-events
+21	NIS	NBA Insurance Start	NULL	1	NULL	post_eVar26	forsikring

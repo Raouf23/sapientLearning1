@@ -1,0 +1,18 @@
+19	LVCS	Live Chat Started	NULL	1	NULL	post_event_list	event133
+19	LVCC	Live Chat Complete	NULL	1	NULL	post_event_list	event134
+19	DSS	Dealer search start	NULL	1	NULL	post_event_list	event128
+19	DSC	Dealer search complete	NULL	1	NULL	post_event_list	event129
+19	CUS	Contact Us Start	NULL	1	NULL	post_eVar26	contacte-nos OR 'centro_de_assistência_a_clientes'
+19	UCSS	Used cars Search	NULL	1	NULL	post_eVar26	mercedes-benz_certified:veículos_usados_certificados
+19	MFS	Model Finder STARTED	NULL	1	NULL	event_list	event85
+19	MFVV	Model Finder Vehicle Viewed	NULL	1	NULL	event_list	event92
+19	FC	Finance Calculator	NULL	1	NULL	post_prop28	contains 'https://ice.daimler-financialservices.com/ice'
+19	PFS	Finance Product Finder Service	NULL	1	NULL	post_prop28	contains 'https://pf.daimler-financialservices.com/pf/'
+19	SMS	Service & Maintainence	NULL	1	NULL	post_eVar26	proprietário_do_veículo:serviço_e_manutenção
+19	BSS	Book A Service Start	NULL	1	NULL	post_eVar26	marcação_de_serviço OR agendar_manutenção_encontre_o_seu_concessionário_mercedes-benz OR proprietário_do_veículo:agendar_manutenção
+19	ACCS	Accessories Configurator	NULL	1	NULL	post_prop28	contains ' configurator.mercedes-benz-accessories.com'
+19	EQS	Discover EQ Start	NULL	1	NULL	post_eVar26	os_nossos_veículos:os_elétricos_da_mercedes-benz
+19	EQAD	Download EQ Application	NULL	1	NULL	post_eVar26	ir_para_apple_store OR ir_para_google_play_store
+19	MOFS	Model Filter Selected	NULL	1	NULL	post_event_list	event94
+19	MMPS	Mercedes Me Portal Start	NULL	1	NULL	post_prop28	contains '/me.secure.mercedes-benz.com/wps/portal/mmp/'
+19	MFSF	Mercedes-Benz Financial Solutions Financing	NULL	1	NULL	post_prop28	contains 'https://www.financiamento.mercedes-benz.pt/Website/Content_List.aspx?owda=misc&ContentTypeId=1'
